@@ -1,0 +1,27 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Ignore 8ball.txt if it is a generated or temporary file
+8ball.txt
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
