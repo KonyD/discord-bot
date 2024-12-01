@@ -9,9 +9,6 @@ __pycache__/
 # Logs
 *.log
 
-# Ignore 8ball.txt if it is a generated or temporary file
-8ball.txt
-
 # Ignore virtual environments
 venv/
 .env/
