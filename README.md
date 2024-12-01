@@ -108,8 +108,8 @@ Ensure you have the following installed on your system:
 
 1) Clone this repository to your local machine:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/KonyD/discord-bot.git
+cd discord-bot
 ```
 
 2) Install the required dependencies:
