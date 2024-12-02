@@ -22,7 +22,7 @@ These commands are designed for debugging and bot monitoring:
 Commands that engage users with entertaining activities:  
 - **8-Ball** (`8ball.py`): Responds to questions with classic 8-ball predictions.  
 - **Flip** (`flip.py`): Simulates flipping a coin (heads or tails).  
-- **Meme** (`meme.py`): Fetches random memes from popular meme APIs.  
+- **Meme** (`meme.py`): Fetches random memes from meme API.  
 - **Roll** (`roll.py`): Rolls a virtual die with customizable sides.  
 
 ### General Commands
